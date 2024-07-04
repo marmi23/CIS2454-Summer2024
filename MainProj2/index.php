@@ -1,8 +1,14 @@
+<?php
+//db server type
+$data_source_name = 'mysql:host=localhost;dbname=stock'
+$username = 
+ 
+?>
+
 <!DOCTYPE html>
-<!--
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to edit this template
--->
+
+
+
 <html>
     <head>
         <meta charset="UTF-8">
@@ -12,6 +18,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
         <?php
               echo "hi world"
         ?>
+
         
     </body>
 </html>
